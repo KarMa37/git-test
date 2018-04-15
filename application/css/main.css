@@ -6,6 +6,10 @@ p {
     font-weight: lighter;
     display: block;
     font-style: italic;
+    color: pink;
+}
+
+h1 {
     color: red;
 }
 

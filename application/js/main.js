@@ -1,7 +1,6 @@
 $(function () {
     var patientsList = [
         { firstName: "Jan", lastName: "Kowalski" },
-        { firstName: "Adam", lastName: "Nowak" },
         { firstName: "Andrzej", lastName: "Kielcz" }
     ];
 

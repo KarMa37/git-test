@@ -6,4 +6,9 @@ p {
     font-weight: lighter;
     display: block;
     font-style: italic;
+    color: red;
+}
+
+body {
+    font-weight: bold;
 }

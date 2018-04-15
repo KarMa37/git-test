@@ -1,0 +1,9 @@
+li{
+    display: list-item;
+}
+
+p {
+    font-weight: lighter;
+    display: block;
+    font-style: italic;
+}
